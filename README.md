@@ -7,7 +7,7 @@ This script provides a simple interface to manage connections and start the [Scr
 - Disconnect all existing ADB connections before starting a new one.
 - Connect to an Android device via USB or Wi-Fi.
 - Automatically start Scrcpy once the connection is established.
-- User-friendly menu for selecting connection methods.
+- Easy-to-use console menu for selecting connection methods.
 
 ## Prerequisites
 1. Download the [Scrcpy prebuilt package](https://github.com/Genymobile/scrcpy/releases) for Windows and extract it.
