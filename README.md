@@ -19,4 +19,4 @@ This script provides a simple interface to manage connections and start the [Scr
 2. Navigate to the directory containing the script.
 3. Run the script using Python:
    ```bash
-   python script_name.py
+   python main.py
